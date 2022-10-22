@@ -1,0 +1,101 @@
+ranking of movie,movie name,Year,certificate,runtime,genere,RATING,Metascore,DIRECTOR,Actor 1,Actor 2,Actor 3,Actor 4,Votes,GROSS COLLECTION
+1,Anand,1971,U,122," Drama, Musical",8.1,70,Hrishikesh Mukherjee,Rajesh Khanna, Amitabh Bachchan, Sumita Sanyal, Ramesh Deo,33897,2.4
+2,Golmaal,1979,U,144,"Comedy, Romance",8.5,70,Hrishikesh Mukherjee,Amol Palekar, Bindiya Goswami, Deven Verma, Shobha Khote,19230,2.4
+3,Black Friday,2004,Unrated,143,"Action, Crime, Drama",8.4,76,Anurag Kashyap,Kay Kay Menon, Pawan Malhotra, Aditya Srivastav, Dibyendu Bhattacharya,21005,0.03
+4,Dangal,2016,U,161,"Action, Biography, Drama",8.3,70,Nitesh Tiwari,Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra,189700,12.39
+5,Taare Zameen Par,2007,U,165,"Drama, Family",8.3,70,"Aamir Khan, Amole Gupte",Darsheel Safary, Aamir Khan, Tisca Chopra, Vipin Sharma,192694,1.22
+6,Jaane Bhi Do Yaaro,1983,U,132,"Comedy, Crime, Drama",8.3,70,Kundan Shah,Naseeruddin Shah, Ravi Baswani, Bhakti Barve, Satish Shah,14124,2.4
+7,3 Idiots,2009,UA,170,"Comedy, Drama",8.4,67,Rajkumar Hirani,Aamir Khan, Madhavan, Mona Singh, Sharman Joshi,397056,6.53
+8,Chupke Chupke,1975,U,146,"Comedy, Drama, Romance",8.3,70,Hrishikesh Mukherjee,Dharmendra, Sharmila Tagore, Amitabh Bachchan, Jaya Bachchan,12638,2.4
+9,Guide,1965,U,183,"Drama, Musical, Romance",8.4,70,Vijay Anand,Dev Anand, Waheeda Rehman, Leela Chitnis, Anwar Hussain,8161,2.4
+10,Khosla Ka Ghosla!,2006,U,135,"Comedy, Crime, Drama",8.3,70,"Dibakar Banerjee, Pravin E. Birje",Anupam Kher, Boman Irani, Parvin Dabas, Tara Sharma,24009,0.03
+11,Talvar,2015,UA,132,"Crime, Drama, Mystery",8.1,70,Meghna Gulzar,Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi, Sohum Shah,35516,0.34
+12,Drishyam,2015,UA,163,"Crime, Drama, Mystery",8.2,70,Nishikant Kamat,Ajay Devgn, Shriya Saran, Tabu, Rajat Kapoor,81709,0.74
+13,Shahid,2012,A,129," Biography, Drama",8.2,70,Hansal Mehta,Rajkummar Rao, Prabhleen Sandhu, Mohd. Zeeshan Ayyub, Baljinder Kaur,16711,2.4
+14,Rang De Basanti,2006,UA,167,"Comedy, Crime, Drama",8.1,70,Rakeysh Omprakash Mehra,Aamir Khan, Soha Ali Khan, Siddharth, Sharman Joshi,119134,2.2
+15,Black,2005,U,122,Drama,8.1,70,Sanjay Leela Bhansali,Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor,35047,0.73
+16,Mughal-E-Azam,1960,PG,197,"Drama, Romance, War",8.1,70,K. Asif,Prithviraj Kapoor, Madhubala, Dilip Kumar, Durga Khote,8292,0.16
+17,Paan Singh Tomar,2012,UA,135," Action, Biography, Crime",8.2,70,Tigmanshu Dhulia,Irrfan Khan, Mahie Gill, Rajesh Abhay, Hemendra Dandotiya,36420,0.04
+18,Hera Pheri,2000,U,156,"Action, Comedy, Crime",8.1,70,Priyadarshan,Akshay Kumar, Suniel Shetty, Paresh Rawal, Tabu,66819,2.4
+19,"Swades: We, the People",2004,U,210," Drama, Musical",8.2,70,Ashutosh Gowariker,Shah Rukh Khan, Gayatri Joshi, Kishori Ballal, Smith Seth,90664,1.22
+20,Queen,2013,UA,146,"Adventure, Comedy, Drama",8.1,70,Vikas Bahl,Kangana Ranaut, Rajkummar Rao, Lisa Haydon, Jeffrey Ho,65893,1.43
+21,Jo Jeeta Wohi Sikandar,1992,U,174,"Comedy, Drama, Romance",8.2,70,Mansoor Khan,Aamir Khan, Ayesha Jhulka, Deepak Tijori, Pooja Bedi,23390,2.4
+22,Satya,1998,A,170,"Action, Crime, Drama",8.3,70,Ram Gopal Varma,J.D. Chakravarthi, Manoj Bajpayee, Urmila Matondkar, Paresh Rawal,15291,2.4
+23,OMG: Oh My God!,2012,U,125,"Comedy, Drama, Fantasy",8.1,70,Umesh Shukla,Paresh Rawal, Akshay Kumar, Mithun Chakraborty, Mahesh Manjrekar,58953,0.92
+24,Bhaag Milkha Bhaag,2013,U,186,"Biography, Drama, Sport",8.2,70,Rakeysh Omprakash Mehra,Farhan Akhtar, Japtej Singh, Divya Dutta, Pawan Malhotra,68121,1.63
+25,Gangs of Wasseypur,2012,A,321," Action, Comedy, Crime",8.2,89,Anurag Kashyap,Manoj Bajpayee, Ashish Chhipa, Richa Chadha, Nawazuddin Siddiqui,95941,2.4
+26,Sholay,1975,U,204,"Action, Adventure, Comedy",8.1,70,Ramesh Sippy,Sanjeev Kumar, Dharmendra, Amitabh Bachchan, Amjad Khan,55869,2.4
+27,Chak De! India,2007,U,153,"Drama, Family, Sport",8.1,68,Shimit Amin,Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge, Shilpa Shukla,80458,1.11
+28,A Wednesday,2008,UA,104," Action, Crime, Drama",8.1,70,Neeraj Pandey,Anupam Kher, Naseeruddin Shah, Veerendra Saxena, Mahesh Kanual,78666,2.4
+29,Munna Bhai M.B.B.S.,2003,U,156,"Comedy, Drama",8.1,70,Rajkumar Hirani,Sanjay Dutt, Arshad Warsi, Gracy Singh, Boman Irani,82078,2.4
+30,Andaz Apna Apna,1994,U,160," Action, Comedy, Romance",8,70,Rajkumar Santoshi,Aamir Khan, Salman Khan, Raveena Tandon, Karisma Kapoor,53429,2.4
+31,Udaan,2010,UA,134, Drama,8.1,70,Vikramaditya Motwane,Rajat Barmecha, Ronit Roy, Manjot Singh, Ram Kapoor,45204,0.01
+32,Dil Chahta Hai,2001,Unrated,183,"Comedy, Drama, Romance",8.1,70,Farhan Akhtar,Aamir Khan, Saif Ali Khan, Akshaye Khanna, Preity Zinta,72340,0.3
+33,Roja,1992,U,137,"Drama, Romance, Thriller",8.1,70,Mani Ratnam,Arvind Swamy, Madhoo, Pankaj Kapur, Nassar,12993,2.4
+34,Sarfarosh,1999,A,174,"Action, Drama, Thriller",8.1,70,John Mathew Matthan,Aamir Khan, Naseeruddin Shah, Sonali Bendre, Mukesh Rishi,25827,2.4
+35,Lagaan: Once Upon a Time in India,2001,U,224,"Drama, Musical, Sport",8.1,84,Ashutosh Gowariker,Aamir Khan, Raghuvir Yadav, Gracy Singh, Rachel Shelley,114348,0.07
+36,Pink,2016,UA,136,"Crime, Drama, Thriller",8.1,70,Aniruddha Roy Chowdhury,Amitabh Bachchan, Taapsee Pannu, Kirti Kulhari, Andrea Tariang,45210,1.24
+37,Kahaani,2012,UA,122,"Mystery, Thriller",8.1,70,Sujoy Ghosh,Vidya Balan, Parambrata Chattopadhyay, Indraneil Sengupta, Nawazuddin Siddiqui,63005,1.04
+38,PK,2014,UA,153,"Comedy, Drama, Sci-Fi",8.1,70,Rajkumar Hirani,Aamir Khan, Anushka Sharma, Sanjay Dutt, Boman Irani,187283,10.62
+39,Iqbal,2005,UA,132,"Drama, Sport",8.1,70,Nagesh Kukunoor,Shreyas Talpade, Naseeruddin Shah, Shweta Basu Prasad, Yatin Karyekar,17076,2.4
+40,Maqbool,2003,A,132,"Crime, Drama, Thriller",8,70,Vishal Bhardwaj,Irrfan Khan, Tabu, Pankaj Kapur, Naseeruddin Shah,10990,2.4
+41,Zindagi Na Milegi Dobara,2011,U,155,"Comedy, Drama, Musical",8.2,70,Zoya Akhtar,Hrithik Roshan, Farhan Akhtar, Abhay Deol, Katrina Kaif,78226,3.11
+42,Omkara,2006,A,155,"Action, Crime, Drama",8.1,70,Vishal Bhardwaj,Ajay Devgn, Kareena Kapoor, Saif Ali Khan, Konkona Sen Sharma,20904,0.79
+43,Masaan,2015,A,109,Drama,8.1,70,Neeraj Ghaywan,Richa Chadha, Sanjay Mishra, Vicky Kaushal, Pankaj Tripathi,28194,2.4
+44,Barfi!,2012,U,151,"Comedy, Drama, Romance",8.1,70,Anurag Basu,Ranbir Kapoor, Priyanka Chopra Jonas, Ileana D'Cruz, Saurabh Shukla,82122,2.8
+45,The Legend of Bhagat Singh,2002,U,155,"Action, Biography, Drama",8.1,70,Rajkumar Santoshi,Ajay Devgn, Sushant Singh, D. Santosh, Akhilendra Mishra,16527,2.4
+46,Lage Raho Munna Bhai,2006,U,144,"Comedy, Drama, Romance",8,70,Rajkumar Hirani,Sanjay Dutt, Arshad Warsi, Vidya Balan, Boman Irani,47217,2.22
+47,Ugly,2013,A,128,"Crime, Drama, Mystery",7.9,70,Anurag Kashyap,Rahul Bhat, Ronit Roy, Tejaswini Kolhapure, Vineet Kumar Singh,22094,2.4
+48,Dilwale Dulhania Le Jayenge,1995,U,189,"Drama, Romance",8,70,Aditya Chopra,Shah Rukh Khan, Kajol, Amrish Puri, Farida Jalal,69738,2.4
+49,Gulaal,2009,A,140,"Crime, Drama, Thriller",8,70,Anurag Kashyap,Kay Kay Menon, Raj Singh Chaudhary, Raja Chaudhary, Jesse Randhawa,15107,2.4
+50,Deewaar,1975,U,174,"Action, Crime, Drama",8,70,Yash Chopra,Amitabh Bachchan, Shashi Kapoor, Nirupa Roy, Parveen Babi,11102,2.4
+51,Baahubali 2: The Conclusion,2017,UA,167,"Action, Drama",8.2,70,S.S. Rajamouli,Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia,99983,20.19
+52,Mother India,1957,U,172,"Action, Comedy, Drama",7.8,53,Mehboob Khan,Nargis, Sunil Dutt, Rajendra Kumar Tuli, Raaj Kumar,9397,24
+53,Haider,2014,UA,160,"Action, Crime, Drama",8,70,Vishal Bhardwaj,Shahid Kapoor, Tabu, Shraddha Kapoor, Kay Kay Menon,55170,0.9
+54,Dev.D,2009,A,144,"Comedy, Drama, Romance",7.9,70,Anurag Kashyap,Abhay Deol, Mahie Gill, Kalki Koechlin, Dibyendu Bhattacharya,30844,0.01
+55,Special Chabbis,2013,UA,144,"Crime, Drama, Thriller",8,70,Neeraj Pandey,Akshay Kumar, Anupam Kher, Manoj Bajpayee, Jimmy Shergill,56370,1.08
+56,Company,2002,A,142,"Action, Crime, Drama",8,70,Ram Gopal Varma,Ajay Devgn, Mohanlal, Manisha Koirala, Seema Biswas,15545,2.4
+57,Vaastav: The Reality,1999,A,145,"Action, Crime, Drama",8,70,Mahesh Manjrekar,Sanjay Dutt, Namrata Shirodkar, Reema Lagoo, Shivaji Satam,14002,2.4
+58,Badhaai ho,2018,UA,124,"Comedy, Drama",7.9,70,Amit Ravindernath Sharma,Ayushmann Khurrana, Neena Gupta, Nayim Saifi, Gajraj Rao,34664,2.4
+59,Bajrangi Bhaijaan,2015,UA,163,"Action, Adventure, Comedy",8.1,70,Kabir Khan,Salman Khan, Harshaali Malhotra, Nawazuddin Siddiqui, Kareena Kapoor,87983,8.18
+60,Manjhi: The Mountain Man,2015,U,120," Biography, Drama",8,70,Ketan Mehta,Nawazuddin Siddiqui, Abhinay Raj Singh, Radhika Apte, Ashutosh Acharya,19239,2.4
+61,Ankhon Dekhi,2013,U,107," Comedy, Drama",7.9,70,Rajat Kapoor,Sanjay Mishra, Abhinay Raj Singh, Seema Pahwa, Rajat Kapoor,11691,2.4
+62,Jab We Met,2007,U,138," Comedy, Drama, Romance",7.9,70,Imtiaz Ali,Shahid Kapoor, Kareena Kapoor, Tarun Arora, Dara Singh Randhawa,53304,0.41
+63,Padman,2018,UA,140,"Biography, Comedy, Drama",7.9,70,R. Balki,Akshay Kumar, Radhika Apte, Sonam Kapoor, Jyoti Subhash,26310,1.66
+64,Airlift,2016,UA,130,"Action, Drama, History",7.9,70,Raja Menon,Akshay Kumar, Nimrat Kaur, Kumud Mishra, Prakash Belawadi,57110,2.4
+65,Secret Superstar,2017,UA,150,"Drama, Music",7.8,70,Advait Chandan,Zaira Wasim, Meher Vij, Raj Arjun, Aamir Khan,26431,2.4
+66,Kal Ho Naa Ho,2003,U,186,"Comedy, Drama, Musical",7.9,70,Nikkhil Advani,Preity Zinta, Shah Rukh Khan, Saif Ali Khan, Jaya Bachchan,69487,1.79
+67,Baby,2015,UA,159,"Action, Crime, Thriller",7.9,70,Neeraj Pandey,Akshay Kumar, Danny Denzongpa, Rana Daggubati, Taapsee Pannu,57869,2.4
+68,Hey Ram,2000,A,186,"Crime, Drama, History",7.9,70,Kamal Haasan,Kamal Haasan, Shah Rukh Khan, Rani Mukerji, Hema Malini,13024,0.27
+69,My Name Is Khan,2010,UA,165,"Adventure, Drama, Romance",7.9,50,Karan Johar,Shah Rukh Khan, Kajol, Sheetal Menon, Katie Amanda Keane,107227,4.02
+70,Lakshya,2004,UA,186,"Action, Drama, Romance",7.8,70,Farhan Akhtar,Hrithik Roshan, Preity Zinta, Amitabh Bachchan, Om Puri,23601,0.75
+71,Bãhubali: The Beginning,2015,UA,159,"Action, Drama",8,70,S.S. Rajamouli,Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia,124058,6.74
+72,Border,1997,UA,176,"Action, Drama, History",7.9,70,J.P. Dutta,Sunny Deol, Suniel Shetty, Akshaye Khanna, Jackie Shroff,16360,2.4
+73,Ab Tak Chhappan,2004,A,129," Action, Crime, Drama",7.8,70,Shimit Amin,Nana Patekar, Revathi, Yashpal Sharma, Mohan Agashe,8930,2.4
+74,Gangaajal,2003,UA,157,"Action, Crime, Drama",7.8,70,Prakash Jha,Ajay Devgn, Gracy Singh, Mohan Joshi, Yashpal Sharma,17336,2.4
+75,Johnny Gaddaar,2007,A,135,"Crime, Drama, Mystery",7.9,70,Sriram Raghavan,Dharmendra, Rimi Sen, Ashwini Kalsekar, Neil Nitin Mukesh,12459,2.4
+76,English Vinglish,2012,U,134,"Comedy, Drama, Family",7.8,70,Gauri Shinde,Sridevi, Adil Hussain, Mehdi Nebbou, Priya Anand,36621,1.67
+77,Rock On!!,2008,U,145," Drama, Music",7.7,70,Abhishek Kapoor,Arjun Rampal, Farhan Akhtar, Luke Kenny, Purab Kohli,22230,2.4
+78,Don,1978,U,175,"Action, Crime, Thriller",7.7,70,Chandra Barot,Amitabh Bachchan, Zeenat Aman, Pran Sikand, Iftekhar,12290,2.4
+79,The Lunchbox,2013,U,104,"Drama, Romance",7.8,76,Ritesh Batra,Irrfan Khan, Nimrat Kaur, Nawazuddin Siddiqui, Lillete Dubey,56432,4.23
+80,Mr. India,1987,U,179,"Action, Comedy, Drama",7.7,70,Shekhar Kapur,Anil Kapoor, Sridevi, Amrish Puri, Satish Kaushik,15613,2.4
+81,Hindi Medium,2017,U,132,"Comedy, Drama",7.8,70,Saket Chaudhary,Irrfan Khan, Saba Qamar, Dishita Sehgal, Deepak Dobriyal,29190,2.4
+82,Dasvidaniya,2008,UA,113,"Comedy, Drama",7.8,70,Shashant Shah,Vinay Pathak, Sarita Joshi, Rajat Kapoor, Saurabh Shukla,6387,2.4
+83,Udta Punjab,2016,A,148,"Action, Crime, Drama",7.7,70,Abhishek Chaubey,Shahid Kapoor, Alia Bhatt, Kareena Kapoor, Diljit Dosanjh,30718,2.4
+84,Nayak: The Real Hero,2001,U,187,"Action, Drama, Thriller",7.8,70,S. Shankar,Anil Kapoor, Rani Mukerji, Amrish Puri, Paresh Rawal,16580,2.4
+85,Oye Lucky! Lucky Oye!,2008,UA,125,"Action, Comedy, Crime",7.7,70,Dibakar Banerjee,Abhay Deol, Paresh Rawal, Nitu Chandra, Archana Puran Singh,17637,0.08
+86,Vicky Donor,2012,UA,126,"Comedy, Romance",7.8,70,Shoojit Sircar,Ayushmann Khurrana, Yami Gautam, Annu Kapoor, Dolly Ahluwalia,43488,0.17
+87,Guru,2007,U,162,Drama,7.7,70,Mani Ratnam,Mithun Chakraborty, Abhishek Bachchan, Aishwarya Rai Bachchan, Madhavan,23947,2.09
+88,Raazi,2018,UA,138,"Action, Drama, Thriller",7.7,70,Meghna Gulzar,Alia Bhatt, Vicky Kaushal, Rajit Kapoor, Shishir Sharma,31078,2.4
+89,Veer-Zaara,2004,U,192,"Drama, Family, Musical",7.8,67,Yash Chopra,Shah Rukh Khan, Preity Zinta, Rani Mukerji, Kirron Kher,53351,2.92
+90,Earth,1998,A,110,"Drama, Romance, War",7.6,71,Deepa Mehta,Aamir Khan, Nandita Das, Rahul Khanna, Maia Sethna,7913,0.53
+91,Kapoor & Sons,2016,UA,132,"Comedy, Drama, Family",7.7,70,Shakun Batra,Rishi Kapoor, Rajat Kapoor, Ratna Pathak Shah, Fawad Khan,26568,2.61
+92,Newton,2017,UA,106,"Comedy, Drama",7.6,70,Amit Masurkar,Rajkummar Rao, Pankaj Tripathi, Anjali Patil, Raghuvir Yadav,20226,2.4
+93,Agneepath,1990,UA,174,"Action, Crime, Drama",7.6,70,Mukul Anand,Amitabh Bachchan, Mithun Chakraborty, Madhavi, Neelam Kothari,9021,2.4
+94,Manorama: Six Feet Under,2007,UA,137,"Crime, Drama, Mystery",7.6,70,Navdeep Singh,Abhay Deol, Gul Panag, Raima Sen, Sarika Thakur,8206,2.4
+95,Neerja,2016,U,122,"Biography, Drama, Thriller",7.6,70,Ram Madhvani,Sonam Kapoor, Shabana Azmi, Yogendra Tikku, Abrar Zahoor,22857,1.54
+96,Madras Cafe,2013,UA,130,"Action, Drama, Thriller",7.6,70,Shoojit Sircar,John Abraham, Nargis Fakhri, Raashi Khanna, Vishnu Govindhan,24676,2.4
+97,Sarkar,2005,UA,124,"Action, Crime, Drama",7.6,70,Ram Gopal Varma,Amitabh Bachchan, Abhishek Bachchan, Kay Kay Menon, Supriya Pathak,16851,2.4
+98,Bheja Fry,2007,UA,95,"Comedy, Drama",7.6,70,Sagar Ballary,Vinay Pathak, Rajat Kapoor, Sarika Thakur, Milind Soman,11915,2.4
+99,Darr,1993,UA,178,"Action, Drama, Romance",7.6,70,Yash Chopra,Juhi Chawla, Sunny Deol, Shah Rukh Khan, Anupam Kher,23959,2.4
+100,Kabhi Haan Kabhi Naa,1994,UA,158," Comedy, Drama, Music",7.6,70,Kundan Shah,Shah Rukh Khan, Suchitra Krishnamoorthi, Deepak Tijori, Rita Bhaduri,18419,2.4
